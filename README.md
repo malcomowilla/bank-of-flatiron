@@ -16,7 +16,8 @@ data! Use the below gif as an example of how the app should function.
 For this project, you’ll be building out a React application that displays a
 list of your recent bank transactions, among other features.
 
-Part of what this code challenge is testing is your ability to follow given
+Part of what this code 
+challenge is testing is your ability to follow given
 instructions. While you will definitely have a significant amount of freedom in
 how you implement the features, be sure to carefully read the directions for
 setting up the application.
